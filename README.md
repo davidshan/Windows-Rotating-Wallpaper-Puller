@@ -17,4 +17,4 @@ Once these are set, the user can `cd` into the python folder, and run `python wa
 
 2. As mentioned above, user convenience and interactivity is admittedly lacking. Ways to improve on this are making command line arguments the way to specify destination and asset folders, along with automatically finding the assets folder for the user. Default values for these variables would also help (such as a pre-made 'targets' folder)
 
-3. Error checking is spotty - things such as copying over files which already exist aren't handled, along with checking if folder_path points to the real assets folder (which could be bad since it would copy over files completely unrelated).
+3. Error checking is spotty - things such as copying over files which already exist aren't handled, along with checking if folder_path points to the real assets folder (which could be bad since it would copy over files completely unrelated). Also checking if the files being copied are really images, and not another generic file type. 
