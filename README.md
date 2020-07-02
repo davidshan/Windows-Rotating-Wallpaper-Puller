@@ -10,6 +10,8 @@ The current method to change target and asset folder paths is by manually changi
 
 ```target_path``` can point to anywhere, as long as it is a folder. This indicates where the program should copy the wallpaper files to.
 
+Once these are set, the user can `cd` into the python folder, and run `python wallpaper_puller.py`. The program will indicate with a `Done.` if no errors occurred.
+
 ### Things to improve on
 1. For now, this is written in Python. I'd like to get a batch script version of this working, so that Windows users don't have to install anything
 
