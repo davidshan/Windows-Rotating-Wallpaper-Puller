@@ -1,4 +1,4 @@
-# Windows-Rotating-Wallpaper-Puller
+# Windows Wallpaper Snatcher
 Pulls the rotating wallpapers on your login screen (which change periodically) as .jpg files to a destination folder of your choice. I wrote this program because I wanted to keep these wallpapers for personal use, such as for my desktop wallpaper (or whatever other purpose), and I was tired of manually pulling and renaming them.
 
 ### Usage
